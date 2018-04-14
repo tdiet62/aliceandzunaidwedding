@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Wedding website",
   "engines": {
-    "npm": ">=3"
+    "npm": ">=3",
+    "node": ">=8.9.0"
   },
   "scripts": {
     "preinstall": "node tools/nodeVersionCheck.js",
